@@ -8,7 +8,7 @@ This is a Kicad project of a PCB design for a DIY Arcade system. The goal was to
 | IDT 40-Pin   | 1         |
 
 ## PCB Render
-![Board Render](https://github.com/roycepope/rpi-arcade-hat/blob/pcbway/pics/render.png?raw=true)
+![Board Render](https://github.com/roycepope/rpi-arcade-hat/blob/main/pics/render.png?raw=true)
 
 ## RecalBox GPIO Map 
 ```
