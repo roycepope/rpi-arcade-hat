@@ -27,3 +27,4 @@ fp-info-cache
 
 # Extra Mac files
 *.DS_Store
+gerbers/.DS_Store
